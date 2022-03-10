@@ -25,4 +25,7 @@ void main()
       }
     }
   }
+  printf("\nFirst element of array:a[0][0][0]=%d\n",test[0][0][0]);
+  printf("Middle element of array:a[0][2][0]=%d\n",test[0][2][0]);
+  printf("Last element of array:a[1][2][1]=%d\n",test[1][2][1]);
 }
